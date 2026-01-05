@@ -29,5 +29,4 @@ Ce projet explore l'application de l'algorithme de clustering **K-Means** sur le
 *   **Variation de k** : Test de décomposition de 2 à 6 clusters (k=2 offre la meilleure séparation mathématique).
 *   **Impact de la normalisation** : Comparaison des scores de silhouette avant et après mise à l'échelle.
 
----
-**Note** : Tous les graphiques et codes sources sont disponibles dans le fichier `TP4.ipynb`.
+
